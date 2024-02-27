@@ -14,3 +14,18 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Guessing game](/day1/guessing_game/)
+
+### Day 2: February 27, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 3
+
+**Thoughts:**
+
+- Rust continues to show its care to safety through the book after showing how it implements common programming languages concepts, like the compiler error when possibly accessing an out of bounds array position. I like that!
+
+- This chapter ends with some interesting suggestions about real projects to implement. I'll do it tomorrow.
+
+**Link to work:**
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's learnings](/day2/)
