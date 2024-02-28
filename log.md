@@ -29,3 +29,19 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's learnings](/day2/)
+
+### Day 3: February 28, 2024
+
+**Today's Progress**: Made a fibonacci calculator and a temperature converter.
+
+**Thoughts:**
+
+- Today I've put my learnings to the test. It was good to practice the common concepts, like loops, match expressions and the difference between statements and expressions.
+
+- Rust continues to impress me about code safety, but I still wish a language that can infer types over numbers during compile time, which is not present either in Rust or Typescript.
+
+**Link to work:**
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Fibonacci calculator](/day3/fibonacci/)
+3. [Temperature converter](/day3/temperature_converter/)
