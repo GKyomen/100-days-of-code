@@ -45,3 +45,20 @@
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Fibonacci calculator](/day3/fibonacci/)
 3. [Temperature converter](/day3/temperature_converter/)
+
+### Day 4: February 29, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 4
+
+**Thoughts:**
+
+- Today I've learned about Rust most talked concept: Ownership. For someone who already has experienced pointers in C, the book shows pretty well why they took this idea to the language project.
+
+- At the same time, this was the most difficult chapter to read up until now. There is a ton to learn, and I'm certain that it will only be possible through hands-on programming.
+
+- One other thing that impresses me is how this concept forces the developers not only to look to possible bugs (undefined behavior) but also to look at logical errors, like how a function to append a title to a person's name (i.e PhD) could be fixed in three different manners, but only one was correct because it didn't changed the original person's name forever, which would probably be bad in the program context.
+
+**Link to work:**
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day4/ownership/)
