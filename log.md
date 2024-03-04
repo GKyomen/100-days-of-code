@@ -75,3 +75,18 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day5/rectangles/)
+
+### Day 6: March 4, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 6
+
+**Thoughts:**
+
+- This chapter was really easier to understand as enums exists in Typescript and match was used before in chapter 2. Because of that, little work has been done in code today
+
+- As the book states, after seeing Rust "null" (None, to be more precise) and enums implementations, I wish it had been like this in all other languages.
+
+- Ownership inventory is a really good way to test our learnings on ownership, but it crashed my browser twice. Note to self: close some tabs before trying this kind of quiz.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day6/enums/)
