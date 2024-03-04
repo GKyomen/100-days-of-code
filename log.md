@@ -62,3 +62,16 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day4/ownership/)
+
+### Day 5: March 3, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 5
+
+**Thoughts:**
+
+- This chapter was a bit easier to understand as I saw structs in C and OOP in Java before.
+
+- The book continues to show how important is to understand ownership to develop the best solutions in Rust. I'm planning to do a project to study it more deeply.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day5/rectangles/)
