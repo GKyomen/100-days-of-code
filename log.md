@@ -90,3 +90,16 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day6/enums/)
+
+### Day 7: March 5, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 7
+
+**Thoughts:**
+
+- This chapter prooves once more the book care about the developers because it talks about the `mod` and `use` features in the context of developing large projects.
+
+- Each day into reading the book has increased my understanding of the idiomatic way to think and write Rust code. I really need to make a hands on project to test my learning, but so far I think I'm understanding each concept after some chapters (i.e. understanding ownership better after chapters 5, 6 and 7)
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day7/restaurant/)
