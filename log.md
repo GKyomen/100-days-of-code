@@ -103,3 +103,18 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day7/restaurant/)
+
+### Day 8: March 6, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 8
+
+**Thoughts:**
+
+- I really liked to learn about Rust String implementation and the space to interpretation it gives since Strings are really complicated in real world applications and Rust doesn't try to hide it like many other languages do it.
+
+- I was also super excited to learn about hashmaps in Rust as I saw it too much time ago, in C, but only in a superficial way. I'm excited to try the book suggestions of challenges tomorrow
+
+- Lastly, I'm really happy about Ownership inventory #2 as I did well in the test (starting with 4 out of 6 correctly answered questions) as opposed to the first and the original chapter quizzes (starting with most questions wrong and needing a lot of time to figure out why)
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day8/collections/)
