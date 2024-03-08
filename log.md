@@ -118,3 +118,16 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day8/collections/)
+
+### Day 9: March 7, 2024
+
+**Today's Progress**: Made three challenges proposed by the book
+
+**Thoughts:**
+
+- Its so good to complete a challenge in Rust. Today I completed three: A calculator for mean, median and mode; A pig latin word converter; and a "database" for employees
+
+- I'm excited to learn more and get back to this code and have that feeling of "I was a awful programmer in this language some time ago", which indicates that I'm getting experienced!
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's challenges](/day9/)
