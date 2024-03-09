@@ -131,3 +131,14 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's challenges](/day9/)
+
+### Day 10: March 8, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 9
+
+**Thoughts:**
+
+- Today I learned about error handling, which is important for me because I will use Rust to implement APIs, so error handling is a core feature, and also because I'm currently studying automated testing, which uses errors too.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day10/)
