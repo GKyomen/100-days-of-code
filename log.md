@@ -142,3 +142,18 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day10/)
+
+### Day 11: March 10, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 10
+
+**Thoughts:**
+
+- This chapter taught me some important concepts to strong typed programming languages like Rust. Comparing to TypeScript, generics is almost the same, and Traits aren't really necessary in TS due to it's more general types (like everything in TypeScript has Rust `Display` trait), but it's super interesting how traits works!
+
+- The different part was lifetimes, but it was easy to understand the reasons behind this feature and how to think when we need to implement it. Also, I'm glad that I'm learning Rust now since lifetimes was really boilerplate code before elision rules.
+
+- There was another ownership inventory today. I'm 100% capable of finding the errors now, but I'm not answering correctly on how to fix them. I guess it will come over time. I don't think that those questions like "if this code wasn't rejected by the compiler, what code would cause errors?" are actually good... like, the code doesn't compile, so you can't run anything anyway. But I'll keep trying to be better.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day11/)
