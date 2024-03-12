@@ -157,3 +157,16 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day11/)
+
+### Day 12: March 12, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 11
+
+**Thoughts:**
+
+- Yet again Rust prooves that it cares about its devs. This chapter shows that testing is native to the language, without the need to use a external crate to make it. I'm in love with this language.
+
+- I was going to read two chapters today to fix the missed day yesterday, however the next one guides the reader through a project development, which in general takes a long time to complete and understand.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day12/)
