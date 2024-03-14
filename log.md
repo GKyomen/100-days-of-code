@@ -170,3 +170,16 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day12/)
+
+### Day 13: March 13, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 12
+
+**Thoughts:**
+
+- This chapter brings A LOT of content to the table. It was incredible to develop the mini grep program in a real way using TDD, code refactoring and error handling.
+
+- Also, this chapter not only summarizes most of the learnings so far, but also teaches how to work with environment variables and how to use the standard error. It was really well written.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's project -> minigrep](/day13/)
