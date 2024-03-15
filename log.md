@@ -183,3 +183,16 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's project -> minigrep](/day13/)
+
+### Day 14: March 14, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 13
+
+**Thoughts:**
+
+- I was wondering about functional programming not so long ago as Elixir got some hype. I really thought it would be hard to understand functional paradigm, but Typescript had some features like closures. It was easier than I imagined and the last part of the chapter proved that Rust implementations are as good as it could be, and I'm impressed!
+
+- Iterators was hard to understand in C, but my current experience and the Rust book explanation made it really easy to get. I'm really invested into it and can't wait to try it in a personal project.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day14/)
