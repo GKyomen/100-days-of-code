@@ -196,3 +196,19 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day14/)
+
+### Day 15: March 15, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 14 and made some exercises on LeetCode
+
+**Thoughts:**
+
+- Today's chapter was short, so I made exercises in LeetCode. I'm proud to been able to solve them!
+
+- Nice chapter! Now I know how to use crates.io
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's exercises](/day15/)
+3. [Link to exercise 1](https://leetcode.com/problems/contains-duplicate/)
+4. [Link to exercise 2](https://leetcode.com/problems/valid-anagram/)
+5. [Link to exercise 3](https://leetcode.com/problems/two-sum/)
