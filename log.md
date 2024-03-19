@@ -212,3 +212,15 @@
 3. [Link to exercise 1](https://leetcode.com/problems/contains-duplicate/)
 4. [Link to exercise 2](https://leetcode.com/problems/valid-anagram/)
 5. [Link to exercise 3](https://leetcode.com/problems/two-sum/)
+
+### Day 16: March 18, 2024
+
+**Today's Progress**: Made some more exercises on LeetCode
+
+**Thoughts:**
+
+- Not my proudest solutions: had to copy some parts of solution for ex 1 as mine was not fast enough for 40 of the 150 cases, and the ex 2 had the best runtime but one of the worst memory uses. Anyway I'm happy to be able to solve the problems.
+
+1. [Today's exercises](/day16/)
+2. [Link to exercise 1](https://leetcode.com/problems/group-anagrams/)
+3. [Link to exercise 2](https://leetcode.com/problems/top-k-frequent-elements/)
