@@ -224,3 +224,16 @@
 1. [Today's exercises](/day16/)
 2. [Link to exercise 1](https://leetcode.com/problems/group-anagrams/)
 3. [Link to exercise 2](https://leetcode.com/problems/top-k-frequent-elements/)
+
+### Day 17: March 19, 2024
+
+**Today's Progress**: Progressed through the book up until half of chapter 15
+
+**Thoughts:**
+
+- I decided to break this chapter read in half because is a large one and to fix the concepts more clearly.
+
+- Smart pointers seemed to be hard at first glance, but they are incredibly useful in many situations. I'm eager to finish the chapter.
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day17/)
