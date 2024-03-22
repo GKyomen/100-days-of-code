@@ -237,3 +237,18 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day17/)
+
+### Day 18: March 21, 2024
+
+**Today's Progress**: Finished chapter 15
+
+**Thoughts:**
+
+- This chapter gave me some idea on how rust have the unsafe feature behind the scenes. It also explained very useful concepts, link reference counting and interior mutability.
+
+- Had an idea to write graph algorithms with the new knowledge of smart and shared pointers.
+
+- I have to be more disciplined in this challenge
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day18/)
