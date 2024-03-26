@@ -252,3 +252,18 @@
 
 1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
 2. [Today's tests and learnings](/day18/)
+
+### Day 19: March 26, 2024
+
+**Today's Progress**: Progressed through the book up until chapter 16
+
+**Thoughts:**
+
+- I was a little afraid of concurrency in programming as I never used it before, but Rust showed it garantees that makes it so much easier than other languages.
+
+- I'm excited about the last chapter's project, which will use the knowledge of this chapter
+
+- I took some time off and now I'm feeling good again to make the challenge everyday as intended in the beginning!
+
+1. [The Rust Programming Language Experiment Book](https://rust-book.cs.brown.edu/)
+2. [Today's tests and learnings](/day19/)
